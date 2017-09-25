@@ -136,12 +136,12 @@ html, body {
 span {
 	position: absolute;
 	left: 0;
-	bottom: 10px;
+	bottom: 15px;
 	width: 100%;
 	color: white;
 	text-align: center;
 	background-color: #4aaaa5;
-	padding: 20px 0px;
+	padding: 10px 0px;
 }
 /*Contact Box*/
 input {
